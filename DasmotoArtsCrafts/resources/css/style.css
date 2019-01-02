@@ -1,0 +1,39 @@
+h1 {
+	font-family: Helvetica;
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+	margin: auto;
+	background-image: url(../images/image1.jpeg);
+}
+
+.sub-heading1 {
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	background-color: mediumspringgreen;
+}
+
+.sub-heading2 {
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	background-color: lightcoral;
+}
+
+.sub-heading3 {
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	background-color: skyblue;
+}
+
+.price {
+	font-family: Helvetica;
+	font-weight: bold;
+	color: blue;
+}
